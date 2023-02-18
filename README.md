@@ -2,7 +2,7 @@
 🎉 Online courses and resources for machine learning and deep learning.
 
 
-## 🚀Lists
+## 🚀Courses
 ### [TinyML and Efficient Deep Learning](https://efficientml.ai/)
 ⭐⭐⭐⭐⭐
 MIT • 6.S965 • Fall 2022
@@ -15,3 +15,12 @@ KAIST • AI602 • Spring 2022
 
 
 Deep learning is a new area of machine learning research, which have demonstrated states-of-the-art performance on many artificial intelligence tasks, e.g., computer vision, speech recognition and natural language processing. In this lecture, I will cover some of recent advances in this area.
+
+## 📖 Ebooks
+- [The Elements of Statistical Learning](https://course.ccs.neu.edu/ds4420sp20/readings/ESLII.pdf) Trevor Hastie
+
+- [Mathematics for Machine Learning](https://course.ccs.neu.edu/ds4420sp20/readings/mml-book.pdf) A. Aldo Faisal
+ 
+- [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf) Garrett Thomas
+
+- [Dive into Deep Learning](https://deeplearning.cs.cmu.edu/F20/document/readings/d2l-en.pdf) Aston Zhang
